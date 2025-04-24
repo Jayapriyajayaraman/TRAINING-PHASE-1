@@ -38,17 +38,5 @@ _Your register number here_
 
 > ℹ️ Replace each `Task_…` with the actual incomplete task IDs (or write `None` if that level is complete).
 
----
-
-### How to add/update this `README.md`
-
-```bash
-# 1. Save the above as README.md in your project root
-# 2. Stage and commit:
-git add README.md
-git commit -m "Add README with Levels 1–18 overview"
-# 3. Push to GitHub:
-git push origin main
-
 
  
