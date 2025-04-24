@@ -30,7 +30,7 @@ _Your register number here_
 | Level_11 | none                   |
 | Level_12 | none                   |
 | Level_13 | none                 |
-| Level_14 | Task_6,,task_7                  |
+| Level_14 | Task_6,task_7                  |
 | Level_15 | none                  |
 | Level_16 | none                  |
 | Level_17 | none                 |
